@@ -55,7 +55,7 @@ python main.py
 
 ## 📊 실행 결과
 
-> 이곳에 실행 결과 스크린샷이나 출력 내용을 추가하세요
+<img width="774" height="495" alt="image" src="https://github.com/user-attachments/assets/37f2550b-a22a-4b44-9ee6-8d5e6b58b58a" />
 
 ```
 예시:
@@ -69,13 +69,14 @@ python main.py
 ## 🤔 학습 내용 정리
 
 ### 배운 점
-- 
+- - 유사도 검색 대신 인덱스로도 검색가능
+
 
 ### 어려웠던 점
-- 
+- [미해결] streamit 멈추고 kill -9 로 없앴는데 그 다음부터 아무 명령어도 먹질 않았음(python조차...)
 
 ### 개선하고 싶은 점
-- 
+- rag를 streamit에 넣어보고싶음
 
 ---
 
@@ -87,6 +88,6 @@ python main.py
 
 ---
 
-**작성자**: [이름]  
+**작성자**: [장준규]  
 **작성일**: 2025.10.07
 
