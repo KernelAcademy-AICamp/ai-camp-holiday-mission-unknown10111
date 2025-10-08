@@ -56,29 +56,28 @@ python main.py
 
 ## 📊 실행 결과
 
-> 이곳에 실행 결과 스크린샷이나 출력 내용을 추가하세요
-
-```
-예시:
-질문: "..."
-검색 결과 (Before Re-ranking): [...]
-검색 결과 (After Re-ranking): [...]
-최종 답변: "..."
-정확도: 95%
-```
+<img width="560" height="339" alt="image" src="https://github.com/user-attachments/assets/c2542c89-da46-4516-a4ec-4a51da672322" />
 
 ---
 
 ## 🤔 학습 내용 정리
 
 ### 배운 점
-- 
+- llm을 제외하고 RAG성능 평가
+    - 정답 idx가 있는 경우 -> accuracy
+    - 정답 idx가 없는 경우
+        - RAGAS - context recall
+            - similarity(model.answer, ground_truth)
+- The Needle in a Haystack 
+    - 입력을 주고 입력 내에서 특정 텍스트를 찾는 테스트
+    - LLM의 Input Context 길이가 1M이상으로 늘지만 너무 긴 Input을 잘 기억하지 못하는 경우도 있음
+
 
 ### 어려웠던 점
-- 
+- bug
 
 ### 개선하고 싶은 점
-- 
+- 다른 데이터로 해보고픔
 
 ---
 
@@ -89,6 +88,6 @@ python main.py
 
 ---
 
-**작성자**: [이름]  
+**작성자**: [장준규]  
 **작성일**: 2025.10.08
 
