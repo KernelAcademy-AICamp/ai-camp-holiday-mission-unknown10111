@@ -56,7 +56,7 @@ python main.py
 
 ## 📊 실행 결과
 
-> 이곳에 실행 결과 스크린샷이나 출력 내용을 추가하세요
+<img width="1239" height="618" alt="image" src="https://github.com/user-attachments/assets/d2ee26a1-e623-4d2b-afad-695fc4407de4" />
 
 ```
 예시:
@@ -73,13 +73,14 @@ python main.py
 ## 🤔 학습 내용 정리
 
 ### 배운 점
-- 
+- api
+- mongoDB
 
 ### 어려웠던 점
-- 
+- 버전 맞추기
 
 ### 개선하고 싶은 점
-- 
+- api 불러와서 테스트 하나 파일에 정리 
 
 ---
 
@@ -90,6 +91,6 @@ python main.py
 
 ---
 
-**작성자**: [이름]  
+**작성자**: [장준규]  
 **작성일**: 2025.10.09
 
